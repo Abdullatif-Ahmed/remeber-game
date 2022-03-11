@@ -80,8 +80,8 @@ button {
 }
 .memory-game-block {
   flex: 1 0 144px;
-  -webkit-flex: 1;
-  -ms-flex: 1;
+  -webkit-flex: 1 0 144px;
+  -ms-flex: 1 0 144px;
   height: 154px;
   position: relative;
   transform-style: preserve-3d;
